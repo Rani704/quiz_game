@@ -1,0 +1,40 @@
+.app {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 600px;
+  }
+  body{
+    background-color: black;
+  }
+  
+  .question-section {
+    margin-bottom: 20px;
+  }
+  
+  .question-text {
+    font-size: 24px;
+    margin-bottom: 12px;
+    color: aliceblue;
+  }
+  
+  .answer-section button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    font-size: 18px;
+    cursor: pointer;
+
+  }
+  
+  .score-section {
+    font-size: 24px;
+    color: aliceblue;
+  }
+  h1{
+    text-align: center;
+    color:white;
+  }
+  
